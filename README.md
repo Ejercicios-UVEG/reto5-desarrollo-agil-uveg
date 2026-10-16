@@ -11,3 +11,5 @@ Demostrar el uso de Git y GitHub para el control de versiones y el desarrollo co
 - Publicar los cambios en GitHub utilizando git push.
 - Crear una rama de pruebas y fusionarla con main.
   
+  ## Cambios en la rama pruebas
+Esta sección fue agregada en la rama pruebas para demostrar cómo Git permite desarrollar modificaciones independientes antes de integrarlas a main.
